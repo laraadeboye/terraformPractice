@@ -7,5 +7,5 @@ variable my_ip {}
 variable subnet_id {}
 variable image_name {}
 variable public_key_location {}
-variable security_group_id {}
 variable instance_type {}
+
